@@ -1,5 +1,7 @@
 # 圣诞珍珠画02
 
+> **已并入 [pinshuai-image-template](https://github.com/Kangaroochan/pinshuai-image-template)（2026-11-02）。** 本仓库不再更新。这个模板现在是新仓库里的 `templates/圣诞珍珠画02/`，用法是 `python scripts/make_batch.py --template 圣诞珍珠画02 --sets 10`。新安装请克隆新仓库，并把 Codex 技能目录里旧的 `圣诞珍珠画02` 文件夹移走，免得两个 skill 同时触发。
+
 6枚一套的圣诞珠钻画挂饰（圣诞老人、小鹿、圣诞树、雪人、圣诞袜、花环）四张轮播的批量模板：
 
 1. 下雪开场："OK wait... this might be the cutest little Christmas craft gift ever 😭"
